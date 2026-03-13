@@ -44,6 +44,8 @@ I share the Workflow
 How i use claude with Gamma connector to create the post this is the workflow
 ![gamma social media post outlook](https://i.ibb.co/7xdzQV4P/Screenshot-2026-03-13-105739.png)
 
+View the web template live preview: https://building-the-future-one--6ujrw1s.gamma.site/
+
 This is 
    How i use claude with Gamma MCP server to build web template i share the web template outlook
    ![web template out look](https://i.ibb.co/0RGdpBd8/Screenshot-2026-03-13-112420.png)

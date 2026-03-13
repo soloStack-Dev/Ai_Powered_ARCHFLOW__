@@ -19,3 +19,26 @@ create custome node for define extra in system architecture
 
 I share this image create Custome node Ui to define the node
 ![Define the Node](https://i.ibb.co/GvHWz3xj/Screenshot-2026-03-12-211324.png)
+
+
+I use Claude bot create Project to add my resource to use as a personl rag assitance that help full for my needs 
+I add the resource name is : 
+      Google recently released Documentation for student:
+           ---- Startup Technical Guide Ai Agent ----
+    ![Ai agent Guide](https://i.ibb.co/N2x9XK9Q/Screenshot-2026-03-13-004634.png)
+When i add the resource in project i give prompt in model get the successfull response i review the output its help for my usecase
+![Ai O/P](https://i.ibb.co/v4xmFBRt/Screenshot-2026-03-13-004606.png)
+
+I use Claude Connector to use Gamma MCP server to create web template and post in this scenerio
+How i use third party app to connect to claude give prompt get successfull outputs 
+I learned MCP(Model Context Protocol) how its worked to response to use and ai can how to get resourse their server
+I share the Workflow
+
+![Post chat workflow](https://i.ibb.co/hxvXd0Mb/Screenshot-2026-03-13-105805.png)
+How i use claude with Gamma connector to create the post this is the workflow
+![gamma social media post outlook](https://i.ibb.co/7xdzQV4P/Screenshot-2026-03-13-105739.png)
+
+This is 
+   How i use claude with Gamma MCP server to build web template i share the web template outlook
+   ![web template out look](https://i.ibb.co/0RGdpBd8/Screenshot-2026-03-13-112420.png)
+
